@@ -106,10 +106,4 @@ university friends. Solving real-world problems with code is my kind of fun!**
         rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
             alt="scikit_learn" width="40" height="40" /> </a> </p>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=himel-032&show_icons=true&locale=en&layout=compact"
-        alt="himel-032" /></p>
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=himel-032&show_icons=true&locale=en" alt="himel-032" />
-</p>
